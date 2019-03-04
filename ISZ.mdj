@@ -17,7 +17,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Prijava na sistem za popisivača",
+					"name": "01 DA Prijava na sistem za popisivača",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -25,7 +25,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFpNkFV/rH1knI="
 							},
-							"name": "Prijava na sistem za popisivaca",
+							"name": "01 DA Prijava na sistem za popisivaca",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -1171,11 +1171,11 @@
 													"containerExtending": false,
 													"left": 16,
 													"top": 4,
-													"width": 219.62890625,
+													"width": 237.70068359375,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from Prijava na sistem za popisivača)",
+													"text": "(from 01 Prijava na sistem za popisivača)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -4270,7 +4270,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Odjava sa sistema za popisivača",
+					"name": "02 DA Odjava sa sistema za popisivača",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -4278,7 +4278,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFpNrK2oLUHYuk="
 							},
-							"name": "Odjava sa sistema za popisivača",
+							"name": "02 DA Odjava sa sistema za popisivača",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -5792,7 +5792,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Odabir jezika",
+					"name": "03 DA Odabir jezika",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -5800,7 +5800,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFpQN74TYRlexg="
 							},
-							"name": "Odabir jezika",
+							"name": "03 DA Odabir jezika",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -7595,7 +7595,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Odabir pisma",
+					"name": "04 DA Odabir pisma",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -7603,7 +7603,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFpQOm1I+9MZBQ="
 							},
-							"name": "Odabir pisma",
+							"name": "04 DA Odabir pisma",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -9398,7 +9398,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Popisivanje stanovnika",
+					"name": "05 DA Popisivanje stanovnika",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -9406,7 +9406,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFpQ/7hMnvkDB4="
 							},
-							"name": "Popisivanje stanovnika",
+							"name": "05 DA Popisivanje stanovnika",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -11674,11 +11674,11 @@
 													"containerExtending": false,
 													"left": 24,
 													"top": -4,
-													"width": 170.51708984375,
+													"width": 188.5888671875,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from Popisivanje stanovnika)",
+													"text": "(from 05 Popisivanje stanovnika)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -12656,11 +12656,11 @@
 													"containerExtending": false,
 													"left": 0,
 													"top": -86,
-													"width": 170.51708984375,
+													"width": 188.5888671875,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from Popisivanje stanovnika)",
+													"text": "(from 05 Popisivanje stanovnika)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -14429,11 +14429,11 @@
 													"containerExtending": false,
 													"left": 0,
 													"top": -70,
-													"width": 170.51708984375,
+													"width": 188.5888671875,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from Popisivanje stanovnika)",
+													"text": "(from 05 Popisivanje stanovnika)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -17171,7 +17171,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Pregled mape svog popisnog kruga",
+					"name": "06 DA Pregled mape svog popisnog kruga",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -17179,7 +17179,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFpRDAhjIIidC4="
 							},
-							"name": "Pregled mape svog popisnog kruga",
+							"name": "06 DA Pregled mape svog popisnog kruga",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -18274,7 +18274,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Naknadno slanje podataka na server",
+					"name": "07 DA Naknadno slanje podataka na server",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -18282,7 +18282,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFpRDXBKYLIiJ8="
 							},
-							"name": "Naknadno slanje podataka na server",
+							"name": "07 DA Naknadno slanje podataka na server",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -20757,11 +20757,11 @@
 													"containerExtending": false,
 													"left": 48,
 													"top": -102,
-													"width": 250.021484375,
+													"width": 268.09326171875,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from Naknadno slanje podataka na server)",
+													"text": "(from 07 Naknadno slanje podataka na server)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -21385,11 +21385,11 @@
 													"containerExtending": false,
 													"left": -80,
 													"top": 64,
-													"width": 250.021484375,
+													"width": 268.09326171875,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from Naknadno slanje podataka na server)",
+													"text": "(from 07 Naknadno slanje podataka na server)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -22494,7 +22494,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Popisivanje stana/domaćinstva",
+					"name": "08 DA Popisivanje stana/domaćinstva",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -22502,7 +22502,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFpRHpGq4VXMNo="
 							},
-							"name": "Popisivanje stana/domaćinstva",
+							"name": "08 DA Popisivanje stana/domaćinstva",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -22907,11 +22907,11 @@
 													"containerExtending": false,
 													"left": -144,
 													"top": -64,
-													"width": 216.759765625,
+													"width": 234.83154296875,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from Popisivanje stana/domaćinstva)",
+													"text": "(from 08 Popisivanje stana/domaćinstva)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -23716,11 +23716,11 @@
 													"containerExtending": false,
 													"left": -80,
 													"top": -32,
-													"width": 216.759765625,
+													"width": 234.83154296875,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from Popisivanje stana/domaćinstva)",
+													"text": "(from 08 Popisivanje stana/domaćinstva)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -24819,11 +24819,11 @@
 													"containerExtending": false,
 													"left": -8,
 													"top": -52,
-													"width": 216.759765625,
+													"width": 234.83154296875,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from Popisivanje stana/domaćinstva)",
+													"text": "(from 08 Popisivanje stana/domaćinstva)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -26095,11 +26095,11 @@
 													"containerExtending": false,
 													"left": -60,
 													"top": -30,
-													"width": 216.759765625,
+													"width": 234.83154296875,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from Popisivanje stana/domaćinstva)",
+													"text": "(from 08 Popisivanje stana/domaćinstva)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -26592,11 +26592,11 @@
 													"containerExtending": false,
 													"left": 0,
 													"top": -86,
-													"width": 216.759765625,
+													"width": 234.83154296875,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from Popisivanje stana/domaćinstva)",
+													"text": "(from 08 Popisivanje stana/domaćinstva)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -27892,11 +27892,11 @@
 													"containerExtending": false,
 													"left": -16,
 													"top": -70,
-													"width": 216.759765625,
+													"width": 234.83154296875,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from Popisivanje stana/domaćinstva)",
+													"text": "(from 08 Popisivanje stana/domaćinstva)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -28210,11 +28210,11 @@
 													"containerExtending": false,
 													"left": 48,
 													"top": -70,
-													"width": 216.759765625,
+													"width": 234.83154296875,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from Popisivanje stana/domaćinstva)",
+													"text": "(from 08 Popisivanje stana/domaćinstva)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -30599,7 +30599,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Registracija člana PKLS",
+					"name": "09 DA Registracija člana PKLS",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -30607,7 +30607,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFpRJ/noop4V5Y="
 							},
-							"name": "Registracija člana PKLS",
+							"name": "09 DA Registracija člana PKLS",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -33520,7 +33520,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Brisanje naloga člana PKLS",
+					"name": "10 DA Brisanje naloga člana PKLS",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -33528,7 +33528,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFpRLIWB45yYVA="
 							},
-							"name": "Brisanje naloga člana PKLS",
+							"name": "10 DA Brisanje naloga člana PKLS",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -36122,11 +36122,11 @@
 													"containerExtending": false,
 													"left": -144,
 													"top": -16,
-													"width": 199.4306640625,
+													"width": 217.50244140625,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from Brisanje naloga člana PKLS)",
+													"text": "(from 10 Brisanje naloga člana PKLS)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -36788,7 +36788,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Izmjena naloga člana PKLS",
+					"name": "11 DA Izmjena naloga člana PKLS",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -36796,7 +36796,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFpRLoh74/0mxo="
 							},
-							"name": "Izmjena naloga člana PKLS",
+							"name": "11 DA Izmjena naloga člana PKLS",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -40410,7 +40410,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Registracija državnog/entitetskog instruktora",
+					"name": "12 DA Registracija državnog/entitetskog instruktora",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -40418,7 +40418,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFpRPsOjZayWZc="
 							},
-							"name": "Registracija državnog/entitetskog instruktora",
+							"name": "12 DA Registracija državnog/entitetskog instruktora",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -43331,7 +43331,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Brisanje naloga državnog/entitetskog instruktora",
+					"name": "13 DA Brisanje naloga državnog/entitetskog instruktora",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -43339,7 +43339,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFpRTtMmJivkzM="
 							},
-							"name": "Brisanje naloga državnog/entitetskog instruktora",
+							"name": "13 DA Brisanje naloga državnog/entitetskog instruktora",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -46603,7 +46603,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Izmjena naloga državnog/entitetskog instruktora",
+					"name": "14 DA Izmjena naloga državnog/entitetskog instruktora",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -46611,7 +46611,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFpRVQsMJtPMvE="
 							},
-							"name": "Izmjena naloga državnog/entitetskog instruktora",
+							"name": "14 DA Izmjena naloga državnog/entitetskog instruktora",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -50225,7 +50225,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Registracija popisivača",
+					"name": "15 DA Registracija popisivača",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -50233,7 +50233,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFpRW+gcZ1mTEE="
 							},
-							"name": "Registracija popisivača",
+							"name": "15 DA Registracija popisivača",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -53146,7 +53146,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Brisanje naloga popisivača",
+					"name": "16 DA Brisanje naloga popisivača",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -53154,7 +53154,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFpRX6aep8TCso="
 							},
-							"name": "Brisanje naloga popisivača",
+							"name": "16 DA Brisanje naloga popisivača",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -56418,7 +56418,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Izmjena naloga popisivača",
+					"name": "17 DA Izmjena naloga popisivača",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -56426,7 +56426,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFpRY93E6Ey6Qo="
 							},
-							"name": "Izmjena naloga popisivača",
+							"name": "17 DA Izmjena naloga popisivača",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -58354,11 +58354,11 @@
 													"containerExtending": false,
 													"left": 32,
 													"top": -70,
-													"width": 191.47705078125,
+													"width": 209.548828125,
 													"height": 13,
 													"autoResize": false,
 													"underline": false,
-													"text": "(from Izmjena naloga popisivača)",
+													"text": "(from 17 Izmjena naloga popisivača)",
 													"horizontalAlignment": 2,
 													"verticalAlignment": 5,
 													"wordWrap": false
@@ -60036,7 +60036,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Registracija opštinskog/gradskog instruktora",
+					"name": "18 DA Registracija opštinskog/gradskog instruktora",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -60044,7 +60044,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFpRZxqVqM66/o="
 							},
-							"name": "Registracija opštinskog/gradskog instruktora",
+							"name": "18 DA Registracija opštinskog/gradskog instruktora",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -62957,7 +62957,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Brisanje naloga opštinskog/gradskog instruktora",
+					"name": "19 DA Brisanje naloga opštinskog/gradskog instruktora",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -62965,7 +62965,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFpRaUq6qTd6cA="
 							},
-							"name": "Brisanje naloga opštinskog/gradskog instruktora",
+							"name": "19 DA Brisanje naloga opštinskog/gradskog instruktora",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
@@ -66229,7 +66229,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Izmjena naloga opštinskog instruktora",
+					"name": "20 DA Izmjena naloga opštinskog instruktora",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -66237,7 +66237,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFpRccNR6bBJaY="
 							},
-							"name": "Izmjena naloga opštinskog instruktora",
+							"name": "20 DA Izmjena naloga opštinskog instruktora",
 							"visible": true,
 							"defaultDiagram": false,
 							"ownedViews": [
