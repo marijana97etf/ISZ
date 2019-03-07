@@ -54500,7 +54500,8 @@
 							"_parent": {
 								"$ref": "AAAAAAFpT8/aQxO5T4U="
 							},
-							"name": "Role4"
+							"name": "Role4",
+							"type": ""
 						}
 					]
 				},
@@ -65011,7 +65012,8 @@
 							"_parent": {
 								"$ref": "AAAAAAFpVDiBZrYKvJw="
 							},
-							"name": "Role1"
+							"name": "Role1",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -68970,7 +68972,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFpVcKsTAx7lQg="
 									},
-									"name": "SequenceDiagram1",
+									"name": "02 DS Odjava sa sistema za popisivača",
 									"ownedViews": [
 										{
 											"_type": "UMLFrameView",
@@ -68991,9 +68993,9 @@
 													"font": "Arial;13;0",
 													"left": 75.97900390625,
 													"top": 10,
-													"width": 115.9052734375,
+													"width": 230.05517578125,
 													"height": 13,
-													"text": "SequenceDiagram1"
+													"text": "02 DS Odjava sa sistema za popisivača"
 												},
 												{
 													"_type": "LabelView",
@@ -69979,7 +69981,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFpVchP/A17Wf8="
 									},
-									"name": "SequenceDiagram1",
+									"name": "12 DS Registracija državnog/entitetskog instruktora",
 									"ownedViews": [
 										{
 											"_type": "UMLFrameView",
@@ -71495,7 +71497,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFpVdLbsA7QejE="
 									},
-									"name": "SequenceDiagram1",
+									"name": "13 DS Brisanje naloga državnog/entitetskog instruktora",
 									"ownedViews": [
 										{
 											"_type": "UMLFrameView",
@@ -73389,7 +73391,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFpVdzTqhBnn6k="
 									},
-									"name": "SequenceDiagram1",
+									"name": "14 DS Izmjena naloga državnog/entitetskog instruktora",
 									"ownedViews": [
 										{
 											"_type": "UMLFrameView",
