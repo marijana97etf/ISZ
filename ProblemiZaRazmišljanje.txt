@@ -1,0 +1,4 @@
+Da li nalog atribut ide u sve ili samo u najgeneralniji CMIS?
+Dijalog klaas za upravljanje nalozimA?Mogu lise dijagrami klasa dobiti iz asocijacije?
+Stanovnik i Domacinstvno klase se trebaju preimenovati tako da reprezentuju podatke intuitivnije?
+Treba dodati atribute za klase citanjem specifikacije(To na kraju).
